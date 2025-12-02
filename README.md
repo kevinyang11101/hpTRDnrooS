@@ -1,0 +1,2 @@
+# hpTRDnrooS
+本系统是一款基于Springboot+Vue的仓库管理系统，采用前后端分离架构。主要用途是实现对企业仓库的高效管理，核心功能包括库存管理、出入库记录、实时数据监控等。结合SpringSecurity确保数据安全，MybatisPlus优化数据库操作，Redis提高系统响应速度，Websocket实现数据实时更新。前端采用Vue+ElementUI等构建简洁交互界面，Echarts助力数据可视化，Vuex进行状态管理，为用户提供便捷、高效的仓库管理解决方案。
